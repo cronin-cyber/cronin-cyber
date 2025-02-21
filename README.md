@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on building my career.
+- 🌱 I’m currently learning AWS, Devops, Cloud computing.
+- 👯 I’m looking to collaborate on Everything.
+- 🤔 I’m looking for help with whatever you can.
+- 💬 Ask me about something i know about.
+- 📫 How to reach me: message me on github
+- 😄 Pronouns: I don't understand this stuff.
+- ⚡ Fun fact: you are wasting your time read this.
+
 <!--
 **cronin-cyber/cronin-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
